@@ -1,4 +1,15 @@
-### Hi there 👋
+<h1 align="center">
+   ⚡ Hello there, Rafa here!!! ⚡
+  <br>
+</h1>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RafaelBicas&count_private=true&show_icons=true&theme=tokyonight&exclude_repo=42">
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelBicas&layout=compact&langs_count=7&theme=tokyonight">
+</p>
+
+
 
 <!--
 **RafaelBicas/RafaelBicas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
